@@ -1,0 +1,20 @@
+{
+  "name": "basicAuth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgecr0ss/basicAuth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgecr0ss/basicAuth/issues"
+  },
+  "homepage": "https://github.com/georgecr0ss/basicAuth#readme"
+}
