@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/georgecr0ss/basicAuth/issues"
   },
-  "homepage": "https://github.com/georgecr0ss/basicAuth#readme"
+  "homepage": "https://github.com/georgecr0ss/basicAuth#readme",
+  "dependencies": {
+    "connect-redis": "3.1.0",
+    "express": "4.14.0",
+    "express-handlebars": "3.0.0",
+    "express-session": "1.14.2",
+    "passport": "0.3.2",
+    "path": "0.12.7"
+  }
 }
